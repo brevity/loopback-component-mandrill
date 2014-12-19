@@ -7,6 +7,8 @@
   "author": "Maciej Chmielarski <hello@evenemento.co> (http://evenemento.co/)",
   "license": "MIT",
   "dependencies": {
-    "mandrill-api": "^1.0.41"
+    "mandrill-api": "^1.0.41",
+    "nemento-promisify": "git://github.com/evenemento/nemento-promisify",
+    "q": "^1.1.2"
   }
 }
