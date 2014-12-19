@@ -1,0 +1,12 @@
+{
+  "name": "loopback-component-mandrill",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Maciej Chmielarski <hello@evenemento.co> (http://evenemento.co/)",
+  "license": "MIT",
+  "dependencies": {
+    "mandrill-api": "^1.0.41"
+  }
+}
